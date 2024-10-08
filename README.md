@@ -1,5 +1,6 @@
 Here's an example of a **README file** for **Evolancer.in** that outlines the services, features, and usage guidelines for users and developers.
 
+⚠️⚠️⚠️**Disclaimer: The code and services provided by Evolancer.in are intended for educational purposes only. Unauthorized commercial use, redistribution, or modification without permission is strictly prohibited.**
 --- Link : https://evolancer.in/
 
 # Evolancer.in - Web Development, Hosting, and SEO Services
